@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'web_view_container.dart';
 
 class Home extends StatelessWidget {
-  final _links = ['https://camellabs.com'];
+  final _links = ['https://www.yourwebsite.com'];
 
   @override
   Widget build(BuildContext context) {
